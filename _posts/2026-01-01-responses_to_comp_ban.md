@@ -53,15 +53,15 @@ Students who use their personal devices for educational purposes at school are e
 | $1500-$2000                            | 5       |
 | Unknown/Other                          | 11      |
 
-## Similarities Between Computers
+### Similarities Between Computers
 
-### What is your computer type
+#### What is your computer type
 ![Desktop View](https://raw.githubusercontent.com/elias-pie/elias-pie.github.io/refs/heads/main/_post_data/images/responses_to_ban/q4.png)
 
-### Are you able to get a return on your computer due to this rule?
+#### Are you able to get a return on your computer due to this rule?
 ![Desktop View](https://raw.githubusercontent.com/elias-pie/elias-pie.github.io/refs/heads/main/_post_data/images/responses_to_ban/q5.png)
 
-### How long have you been using this computer?
+#### How long have you been using this computer?
 > This section was graphed using an ollama model[^ai_data].
 {: .prompt-tip }
 
@@ -74,14 +74,14 @@ Students who use their personal devices for educational purposes at school are e
 | 4-6 years               | 5     |
 | More than 6 years       | 3     |
 
-### Have you gotten a replacement computer for a previously broken computer that was used for school?
+#### Have you gotten a replacement computer for a previously broken computer that was used for school?
 ![Desktop View](https://raw.githubusercontent.com/elias-pie/elias-pie.github.io/refs/heads/main/_post_data/images/responses_to_ban/q6.png)
 
-### If so, how many?
-#### Total Count
+#### If so, how many?
+##### Total Count
 24 Computers were replaced for various reasons
 
-#### Reasons for replacement
+##### Reasons for replacement
 > This section was ranked using an ollama model[^ai_data].
 {: .prompt-tip }
 
@@ -92,7 +92,7 @@ Students who use their personal devices for educational purposes at school are e
 | 3   | Battery and charging issues - 4 instances                    |
 | 4   | Old or damaged device from previous use - 3 instances        |
 
-### How much did each replacement cost you, if you know?
+#### How much did each replacement cost you, if you know?
 
 | Range                                  | Count   |
 | -------------------------------------- | ------- |
@@ -106,9 +106,9 @@ Students who use their personal devices for educational purposes at school are e
 | $400-$500                              | 3       |
 | $1000-$1500                            | 2       |
 
-## Final Thoughts
+### Final Thoughts
 
-### Anything else you would like to add?
+#### Anything else you would like to add?
 > This section was summarized using an ollama model[^ai_data].
 {: .prompt-tip }
 
@@ -116,7 +116,7 @@ Students who use their personal devices for educational purposes at school are e
 
 The implementation of a policy mandating the use of school-issued Chromebooks instead of personal devices in educational settings is met with significant opposition and disagreement from students, who express concerns about the potential negative consequences on their academic experiences, well-being, and personal freedoms. Some students argue that this policy is an overreaction to perceived problems with students using AI or playing games during class, and that it will disproportionately affect those who rely on their personal devices for schoolwork and productivity. Others feel that the policy is an abuse of power, neglecting more pressing issues such as student well-being, safety, and academic support, and that it prioritizes administrative convenience over student needs. Many students also express frustration with the lack of explanation or rationale provided by administrators for this policy change, which they believe is an unnecessary restriction on their rights to use personal property and pursue educational activities outside of school. Some students share concerns about the potential impact on their mental health, academic performance, and future college applications, as well as the financial burden placed on families who have invested in personal devices for their children's education. Overall, the policy has sparked a heated debate among students, with many calling for changes or reversals to this new rule.
 
-### [^ai_data]: Ai Data
+## [^ai_data]: Ai Data
 This data was assisted to be presentable by AI, specifically, ollama3.1:8b, which is self hosted. Sure, an 8b model does have low resources and will make mistakes. These mistakes were checked before adding to the website. The PC used has an i7-13th gen intel core processor with an 4060 Nvidia GPU. This AI had zero access to the internet and only summarized what was provided to the model
 
 ### Response Prompt for your reference
