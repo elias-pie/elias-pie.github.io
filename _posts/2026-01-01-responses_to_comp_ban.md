@@ -2,38 +2,38 @@
 title: Thoughts on the new personal computer ban
 date: 2026-01-01 14:38:00 +/-TTTT
 categories: [user_responses]
-tags: [ai_used, statistical_data]     # TAG names should always be lowercase
+tags: [AI Used, Statistical Data, Survey]     # TAG names should always be lowercase
 author: <elias>                     # for single entry
 description: Responses to the survey me and Beckett did regarding the computer ban
 toc: true
 ---
 
-# Background
+## Background
 So me and [Beckett](https://www.instagram.com//beckettjensen21) were curious about people's thoughts on the new personal computer ban at TVHS. After consulting eachother for a bit, 
 we created a (google form)[https://forms.gle/q3rZJENtHu4xR9w3A] asking aboutpeople's thoughts. As of now (1/1/26, this form has 46 responses. 
 
-# Actual Responses to the questions.
+## Actual Responses to the questions.
 
-## What year of school are you in?
+### What year of school are you in?
 ![Desktop View](https://raw.githubusercontent.com/elias-pie/elias-pie.github.io/refs/heads/main/_post_data/images/responses_to_ban/q1.png)
 
 > This was added after 3 hours of the form's initial creation, so there is less responses to this question.
 {: .prompt-info }
 
-## Do you use a Personal Computer at school?
+### Do you use a Personal Computer at school?
 ![Desktop View](https://raw.githubusercontent.com/elias-pie/elias-pie.github.io/refs/heads/main/_post_data/images/responses_to_ban/q2.png)
 
-## Will you be effected next year by this new rule?
+### Will you be effected next year by this new rule?
 ![Desktop View](https://raw.githubusercontent.com/elias-pie/elias-pie.github.io/refs/heads/main/_post_data/images/responses_to_ban/q3.png)
 
-## If so, how?
+### If so, how?
 > This section was summarized using an ollama model (AI Data at bottom)
 {: .prompt-tip }
 
-Response from ollama:
+> Response from ollama:
 Students who use their personal devices for educational purposes at school are expressing concerns about the new policy banning personal computers from school premises, citing issues with website accessibility, slow and inefficient school-issued Chromebooks, restrictions on personal freedoms and autonomy, worries about losing productivity and academic performance, frustration over not being able to access necessary resources, difficulty adapting to the school's tracking system, potential waste of personal property investments, and feelings of mistrust towards the school's handling of student data.
 
-## How much money did your computer cost?
+### How much money did your computer cost?
 > This section was graphed using an ollama model. (AI Data at bottom)
 {: .prompt-tip }
 
@@ -52,15 +52,15 @@ Students who use their personal devices for educational purposes at school are e
 | $1500-$2000                            | 5       |
 | Unknown/Other                          | 11      |
 
-# Similarities Between Computers
+## Similarities Between Computers
 
-## What is your computer type
+### What is your computer type
 ![Desktop View](https://raw.githubusercontent.com/elias-pie/elias-pie.github.io/refs/heads/main/_post_data/images/responses_to_ban/q4.png)
 
-## Are you able to get a return on your computer due to this rule?
+### Are you able to get a return on your computer due to this rule?
 ![Desktop View](https://raw.githubusercontent.com/elias-pie/elias-pie.github.io/refs/heads/main/_post_data/images/responses_to_ban/q5.png)
 
-## How long have you been using this computer?
+### How long have you been using this computer?
 > This section was graphed using an ollama model. (AI Data at bottom)
 {: .prompt-tip }
 
@@ -73,14 +73,14 @@ Students who use their personal devices for educational purposes at school are e
 | 4-6 years               | 5     |
 | More than 6 years       | 3     |
 
-## Have you gotten a replacement computer for a previously broken computer that was used for school?
+### Have you gotten a replacement computer for a previously broken computer that was used for school?
 ![Desktop View](https://raw.githubusercontent.com/elias-pie/elias-pie.github.io/refs/heads/main/_post_data/images/responses_to_ban/q6.png)
 
-
-## If so, how many? - 1
+### If so, how many?
+#### Total Count
 24 Computers were replaced for various reasons
 
-## If so, how many? - 2
+#### Reasons for replacement
 > This section was ranked using an ollama model. (AI Data at bottom)
 {: .prompt-tip }
 
@@ -91,7 +91,7 @@ Students who use their personal devices for educational purposes at school are e
 | 3   | Battery and charging issues - 4 instances                    |
 | 4   | Old or damaged device from previous use - 3 instances        |
 
-## How much did each replacement cost you, if you know?
+### How much did each replacement cost you, if you know?
 
 | Range                                  | Count   |
 | -------------------------------------- | ------- |
@@ -105,13 +105,13 @@ Students who use their personal devices for educational purposes at school are e
 | $400-$500                              | 3       |
 | $1000-$1500                            | 2       |
 
-# Final Thoughts
+## Final Thoughts
 
-## Anything else you would like to add?
+### Anything else you would like to add?
 > This section was summarized using an ollama model (AI Data at bottom)
 {: .prompt-tip }
-Response from Ollama:
 
+> Response from Ollama:
 The implementation of a policy mandating the use of school-issued Chromebooks instead of personal devices in educational settings is met with significant opposition and disagreement from students, who express concerns about the potential negative consequences on their academic experiences, well-being, and personal freedoms. Some students argue that this policy is an overreaction to perceived problems with students using AI or playing games during class, and that it will disproportionately affect those who rely on their personal devices for schoolwork and productivity. Others feel that the policy is an abuse of power, neglecting more pressing issues such as student well-being, safety, and academic support, and that it prioritizes administrative convenience over student needs. Many students also express frustration with the lack of explanation or rationale provided by administrators for this policy change, which they believe is an unnecessary restriction on their rights to use personal property and pursue educational activities outside of school. Some students share concerns about the potential impact on their mental health, academic performance, and future college applications, as well as the financial burden placed on families who have invested in personal devices for their children's education. Overall, the policy has sparked a heated debate among students, with many calling for changes or reversals to this new rule.
 
 ### Ai Data
