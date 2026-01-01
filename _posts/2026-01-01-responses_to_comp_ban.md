@@ -92,6 +92,7 @@ Students who use their personal devices for educational purposes at school are e
 | 4   | Old or damaged device from previous use - 3 instances        |
 
 ## How much did each replacement cost you, if you know?
+
 | Range                                  | Count   |
 | -------------------------------------- | ------- |
 | Unknown/Other                          | 7       |
