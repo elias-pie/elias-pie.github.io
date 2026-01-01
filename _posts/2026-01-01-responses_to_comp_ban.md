@@ -116,9 +116,7 @@ Students who use their personal devices for educational purposes at school are e
 
 The implementation of a policy mandating the use of school-issued Chromebooks instead of personal devices in educational settings is met with significant opposition and disagreement from students, who express concerns about the potential negative consequences on their academic experiences, well-being, and personal freedoms. Some students argue that this policy is an overreaction to perceived problems with students using AI or playing games during class, and that it will disproportionately affect those who rely on their personal devices for schoolwork and productivity. Others feel that the policy is an abuse of power, neglecting more pressing issues such as student well-being, safety, and academic support, and that it prioritizes administrative convenience over student needs. Many students also express frustration with the lack of explanation or rationale provided by administrators for this policy change, which they believe is an unnecessary restriction on their rights to use personal property and pursue educational activities outside of school. Some students share concerns about the potential impact on their mental health, academic performance, and future college applications, as well as the financial burden placed on families who have invested in personal devices for their children's education. Overall, the policy has sparked a heated debate among students, with many calling for changes or reversals to this new rule.
 
-[^ai_data]: "Redirect Footnote"
-
-## [^ai_data]: Ai Data
+## AI Data
 This data was assisted to be presentable by AI, specifically, ollama3.1:8b, which is self hosted. Sure, an 8b model does have low resources and will make mistakes. These mistakes were checked before adding to the website. The PC used has an i7-13th gen intel core processor with an 4060 Nvidia GPU. This AI had zero access to the internet and only summarized what was provided to the model
 
 ### Response Prompt for your reference
@@ -128,3 +126,4 @@ Remain neutral and unbiased, accurately representing differing perspectives and 
 Do not omit major ideas, add new information, or include personal opinions.
 The resulting summary may be long but must be written as one unified statement. Output only the summarized statement.
 ```
+[^ai_data]: Bottom
