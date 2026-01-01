@@ -1,7 +1,7 @@
 ---
 title: Thoughts on the new personal computer ban
 date: 2026-01-01 14:38:00 +/-TTTT
-categories: [user_responses]
+categories: [User Responses]
 tags: [AI Used, Statistical Data, Survey]     # TAG names should always be lowercase
 author: <elias>                     # for single entry
 description: Responses to the survey me and Beckett did regarding the computer ban
