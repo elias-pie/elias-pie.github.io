@@ -15,16 +15,16 @@ we created a (google form)[https://forms.gle/q3rZJENtHu4xR9w3A] asking aboutpeop
 # Actual Responses to the questions.
 
 ## What year of school are you in?
-![Desktop View](https://raw.githubusercontent.com/elias-pie/elias-pie.github.io/refs/heads/main/_post_data/images/responses_to_ban/q1.png){: .normal }
+![Desktop View](https://raw.githubusercontent.com/elias-pie/elias-pie.github.io/refs/heads/main/_post_data/images/responses_to_ban/q1.png)
 
 > This was added after 3 hours of the form's initial creation, so there is less responses to this question.
 {: .prompt-info }
 
 ## Do you use a Personal Computer at school?
-![Desktop View](https://raw.githubusercontent.com/elias-pie/elias-pie.github.io/refs/heads/main/_post_data/images/responses_to_ban/q2.png){: .normal }
+![Desktop View](https://raw.githubusercontent.com/elias-pie/elias-pie.github.io/refs/heads/main/_post_data/images/responses_to_ban/q2.png)
 
 ## Will you be effected next year by this new rule?
-![Desktop View](https://raw.githubusercontent.com/elias-pie/elias-pie.github.io/refs/heads/main/_post_data/images/responses_to_ban/q3.png){: .normal }
+![Desktop View](https://raw.githubusercontent.com/elias-pie/elias-pie.github.io/refs/heads/main/_post_data/images/responses_to_ban/q3.png)
 
 ## If so, how?
 ### Refering to the previous question
