@@ -118,5 +118,8 @@ This data was assisted to be presentable by AI, specifically, ollama3.1:8b, whic
 
 ### Response Prompt for your reference
 ```
-Summarize multiple provided statements into a single, cohesive statement that integrates all key points. Remain neutral and unbiased, accurately representing differing perspectives and topics in proportion to their presence. Do not omit major ideas, add new information, or include personal opinions. The resulting summary may be long but must be written as one unified statement. Output only the summarized statement.
+Summarize multiple provided statements into a single, cohesive statement that integrates all key points.
+Remain neutral and unbiased, accurately representing differing perspectives and topics in proportion to their presence.
+Do not omit major ideas, add new information, or include personal opinions.
+The resulting summary may be long but must be written as one unified statement. Output only the summarized statement.
 ```
