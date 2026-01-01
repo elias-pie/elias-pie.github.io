@@ -31,6 +31,7 @@ we created a (google form)[https://forms.gle/q3rZJENtHu4xR9w3A] asking aboutpeop
 {: .prompt-tip }
 
 > Response from ollama:
+
 Students who use their personal devices for educational purposes at school are expressing concerns about the new policy banning personal computers from school premises, citing issues with website accessibility, slow and inefficient school-issued Chromebooks, restrictions on personal freedoms and autonomy, worries about losing productivity and academic performance, frustration over not being able to access necessary resources, difficulty adapting to the school's tracking system, potential waste of personal property investments, and feelings of mistrust towards the school's handling of student data.
 
 ### How much money did your computer cost?
@@ -112,6 +113,7 @@ Students who use their personal devices for educational purposes at school are e
 {: .prompt-tip }
 
 > Response from Ollama:
+
 The implementation of a policy mandating the use of school-issued Chromebooks instead of personal devices in educational settings is met with significant opposition and disagreement from students, who express concerns about the potential negative consequences on their academic experiences, well-being, and personal freedoms. Some students argue that this policy is an overreaction to perceived problems with students using AI or playing games during class, and that it will disproportionately affect those who rely on their personal devices for schoolwork and productivity. Others feel that the policy is an abuse of power, neglecting more pressing issues such as student well-being, safety, and academic support, and that it prioritizes administrative convenience over student needs. Many students also express frustration with the lack of explanation or rationale provided by administrators for this policy change, which they believe is an unnecessary restriction on their rights to use personal property and pursue educational activities outside of school. Some students share concerns about the potential impact on their mental health, academic performance, and future college applications, as well as the financial burden placed on families who have invested in personal devices for their children's education. Overall, the policy has sparked a heated debate among students, with many calling for changes or reversals to this new rule.
 
 ### [^ai_data]: Ai Data
