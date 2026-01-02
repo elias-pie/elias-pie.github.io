@@ -17,7 +17,7 @@ we created a [google form](https://forms.gle/q3rZJENtHu4xR9w3A) asking aboutpeop
 ### What year of school are you in?
 ![Desktop View](https://raw.githubusercontent.com/elias-pie/elias-pie.github.io/refs/heads/main/_post_data/images/responses_to_ban/q1.png)
 
-> This was added after 3 hours of the form's initial creation, so there is less responses to this question.
+> This was added after 3 hours of the form's initial creation, so there are less responses to this question.
 {: .prompt-info }
 
 ### Do you use a Personal Computer at school?
