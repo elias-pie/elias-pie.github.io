@@ -10,7 +10,7 @@ toc: true
 
 ## Background
 So me and [Beckett](https://www.instagram.com//beckettjensen21) were curious about people's thoughts on the new personal computer ban at TVHS. After consulting eachother for a bit, 
-we created a [google form](https://forms.gle/q3rZJENtHu4xR9w3A) asking aboutpeople's thoughts. As of now (1/1/26, this form has 46 responses. 
+we created a [google form](https://forms.gle/q3rZJENtHu4xR9w3A) asking aboutpeople's thoughts. As of now (1/1/26), this form has 46 responses. 
 
 ## Form Responses
 
